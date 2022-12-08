@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Dashboard 1",
+    "is_heading": false,
+    "is_active": false,
+    "link": {
+      "name": "authSignUp.dashboard"
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-home-4-line"
+  }
+]

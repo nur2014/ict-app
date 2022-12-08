@@ -1,0 +1,1152 @@
+{
+    "common": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external-user.common_dashboard"
+            }
+        }
+    ],
+    "warehouse_farmers": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external_user.warehouse_farmer.dashboard"
+            }
+        },
+        {
+            "title": "My Profile",
+            "name": "nav.user.profileTitle",
+            "is_active": false,
+            "link": {
+                "name": "external_user.warehouse_farmer.profile"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Add Request",
+            "name": "external_sidebar.add_request",
+            "is_active": false,
+            "link": {
+                "name": "external_user.warehouse_farmer.add_request"
+            },
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Make Payment",
+            "name": "external_sidebar.make_payment",
+            "is_active": false,
+            "link": {
+                "name": "external_user.warehouse_farmer.make_payment"
+            },
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Service Rating",
+            "name": "external_sidebar.service_rating",
+            "is_active": false,
+            "link": {
+                "name": "external_user.warehouse_farmer.service_rating"
+            },
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Complain",
+            "name": "external_sidebar.complain",
+            "is_active": false,
+            "link": {
+                "name": "external_user.warehouse_farmer.complain"
+            },
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Warehouse Service",
+            "name": "external_sidebar.warehouseService",
+            "is_active": false,
+            "link": {
+                "name": "external_user.warehouse_farmer.warehouse-service"
+            },
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Delivery Schedule",
+            "name": "external_sidebar.deliverySchedule",
+            "is_active": false,
+            "link": {
+                "name": "external_user.warehouse_farmer.far-delivery-schedule"
+            },
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Market Price",
+            "name": "external_sidebar.marketPrice",
+            "is_active": false,
+            "link": {
+                "name": "external_user.warehouse_farmer.market-price"
+            },
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "QC Certificate",
+            "name": "external_sidebar.qcCertificate",
+            "is_active": false,
+            "link": {
+                "name": "external_user.warehouse_farmer.qc-certificate"
+            },
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Product Stock",
+            "name": "external_sidebar.productStockReport",
+            "is_active": false,
+            "link": {
+                "name": "external_user.warehouse_farmer.product-stock-report"
+            },
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        }
+    ],
+    "irrigation": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "link": {
+                "name": "external-user.dashboard"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "My Profile",
+            "name": "nav.user.profileTitle",
+            "is_active": false,
+            "link": {
+                "name": "external-user.my_profile"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "scheme Application",
+            "name": "external_sidebar.scheme_application",
+            "is_active": false,
+            "link": {
+                "name": "external-user.scheme_application"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Pump Operator Application",
+            "name": "external_sidebar.pump_operator_application",
+            "is_active": false,
+            "link": {
+                "name": "external-user.pump_operator_application"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Smart Cart Application",
+            "name": "external_sidebar.smart_card_application",
+            "is_active": false,
+            "link": {
+                "name": "external-user.smart_card_application"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Water Testing Request",
+            "name": "external_sidebar.water_testing_request",
+            "is_active": false,
+            "link": {
+                "name": "external-user.water_testing_request_list"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Complain",
+            "name": "external_sidebar.complain",
+            "is_active": false,
+            "link": {
+                "name": "external-user.farmer_complain"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "My Task",
+            "name": "external_sidebar.my_assign_task",
+            "is_active": false,
+            "link": {
+                "name": "external-user.my_assign_task"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "My Daily Task",
+            "name": "external_sidebar.my_daily_task",
+            "is_active": false,
+            "link": {
+                "name": "external-user.my_daily_task"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Resunk",
+            "name": "external_sidebar.apply_resunk",
+            "is_active": false,
+            "link": {
+                "name": "external-user.apply_resunk"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Rating",
+            "name": "external_sidebar.rating",
+            "is_active": false,
+            "link": {
+                "name": "external-user.rating"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        }
+    ],
+    "ginner": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "link": {
+                "name": "external_user.ginner.dashboard"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Profile",
+            "name": "external_sidebar.profile",
+            "is_active": false,
+            "link": {
+                "name": "external_user.ginner.profile"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Manage Schedule",
+            "name": "external_sidebar.manageSchedule",
+            "is_active": false,
+            "link": {
+                "name": "external_user.ginner.manage-schedule"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Hatt Management",
+            "name": "external_sidebar.hattManagement",
+            "is_active": false,
+            "link": {
+                "name": "external_user.ginner.hatt-management"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        }
+    ],
+    "grower": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "link": {
+                "name": "external_user.grower.dashboard"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Profile",
+            "name": "external_sidebar.profile",
+            "is_active": false,
+            "link": {
+                "name": "external_user.grower.profile"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Production Achievement",
+            "name": "external_sidebar.productionAchievement",
+            "is_active": false,
+            "link": {
+                "name": "external_user.grower.production-achievement"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Hatt Management",
+            "name": "external_sidebar.hattManagement",
+            "is_active": false,
+            "link": {
+                "name": "external_user.grower.hatt-management"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        }
+    ],
+    "divisional_head": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "link": {
+                "name": "external_user.divisional_head.dashboard"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Campaign Dashboard",
+            "name": "external_sidebar.campaign_dashboard",
+            "is_active": false,
+            "link": {
+                "name": "external_user.divisional_head.campaign_dashboard"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Campaign Request",
+            "name": "external_sidebar.campaign_request",
+            "is_active": false,
+            "link": {
+                "name": "external_user.divisional_head.campaign_request"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Campaign Material",
+            "name": "external_sidebar.campaign_material",
+            "is_active": false,
+            "link": {
+                "name": "external_user.divisional_head.campaign_material"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Campaign Information",
+            "name": "external_sidebar.campaign_information",
+            "is_active": false,
+            "link": {
+                "name": "external_user.divisional_head.campaign_information"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Campaign Attendance",
+            "name": "external_sidebar.campaign_attendance",
+            "is_active": false,
+            "link": {
+                "name": "external_user.divisional_head.campaign_attendance"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Campaign Feedback",
+            "name": "external_sidebar.campaign_feedback",
+            "is_active": false,
+            "link": {
+                "name": "external_user.divisional_head.campaign_feedback"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        }
+    ],
+    "dealer_panel": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "link": {
+                "name": "external_user.dealer_panel.dashboard"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Profile",
+            "name": "external_sidebar.profile",
+            "is_active": false,
+            "link": {
+                "name": "external_user.dealer_panel.profile"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Fertilizer Requisition",
+            "name": "external_sidebar.ferti_requi",
+            "is_active": false,
+            "link": {
+                "name": "external_user.dealer_panel.requisition"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Sales Entry",
+            "name": "external_sidebar.sales_entry",
+            "is_active": false,
+            "link": {
+                "name": "external_user.dealer_panel.sales_entry"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Reports",
+            "name": "external_sidebar.report",
+            "is_active": false,
+            "link": "",
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1,
+            "children": [
+                {
+                  "title": "Fertilizer Requisition Report",
+                  "is_active": false,
+                  "name": "external_sidebar.ferti_requsi_report",
+                  "link": {
+                    "name": "external_user.dealer_panel.fertilizer_requisition_report"
+                  },
+                  "class_name": "",
+                  "is_icon_class": true,
+                  "icon": "ri-record-circle-line"
+                },
+                {
+                  "title": "Fertilizer Allotment Report",
+                  "is_active": false,
+                  "name": "external_sidebar.fertilizer_allotment_report",
+                  "link": {
+                    "name": "external_user.dealer_panel.fertilizer_allotment_report"
+                  },
+                  "class_name": "",
+                  "is_icon_class": true,
+                  "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Fertilizer Sales Report",
+                    "is_active": false,
+                    "name": "external_sidebar.fertilizer_sales_report",
+                    "link": {
+                        "name": "external_user.dealer_panel.fertilizer_sales_report"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                }
+              ]
+        }
+    ],
+    "grant_panel": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "link": {
+                "name": "external_user.grant_panel.dashboard"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Application Form",
+            "name": "external_sidebar.application_form",
+            "is_active": false,
+            "link": {
+                "name": "external_user.grant_panel.application_form"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Fund Request",
+            "name": "external_sidebar.fund_request",
+            "is_active": false,
+            "link": {
+                "name": "external_user.grant_panel.fund_request"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        }
+    ],
+    "trainee_panel": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.dashboard"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Profile",
+            "name": "external_sidebar.profile",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.profile"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Circular List",
+            "name": "external_sidebar.circular_list",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.circular_list"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Booking Status",
+            "name": "external_sidebar.booking_status",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.booking_status"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "ID Card",
+            "name": "external_sidebar.id_card",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.id_card"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Routine",
+            "name": "externalTraining.routine",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.training_schedule"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Trainer Evaluation",
+            "name": "external_sidebar.trainer_evaluation",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.trainer_evaluation"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Request For Document",
+            "name": "external_sidebar.request_document",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.request_document"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Bill Recive",
+            "name": "external_sidebar.bill_recive",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.bill_receive"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Evaluation Management",
+            "name": "external_sidebar.evaluation_management",
+            "is_active": false,
+            "link": {
+              "name": "external_user.trainee_trainer_panel.evaluation"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Online Course Evaluation Management",
+            "name": "external_sidebar.online_course_evaluation",
+            "is_active": false,
+            "link": {
+              "name": "external_user.trainee_trainer_panel.course_evaluation"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Complains List",
+            "name": "external_sidebar.complains_list",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.complains_list"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "FAQ List",
+            "name": "external_sidebar.faq_management",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.faq_management"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Certificate List",
+            "name": "external_sidebar.certificate_list",
+            "is_active": false,
+            "link": {
+                "name": "external_user.trainee_trainer_panel.certificate_list"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        }
+    ],
+    "incentive_farmer": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "link": {
+                "name": "external_user.incentive_farmer.dashboard"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line"
+        },
+        {
+            "title": "Profile",
+            "name": "external_sidebar.profile",
+            "is_active": false,
+            "link": {
+                "name": "external_user.incentive_farmer.profile"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Circular List",
+            "name": "external_sidebar.circular_list",
+            "is_active": false,
+            "link": {
+                "name": "external_user.incentive_farmer.circular_list"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Machinery Purchase Application",
+            "name": "external_sidebar.subsidy_application",
+            "is_active": false,
+            "link": {
+                "name": "external_user.incentive_farmer.subsidy_application"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        }
+    ],
+    "market_directory": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external_user.market_directory.market-directory-report"
+            }
+        }
+    ],
+    "virtual_museum": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external_user.virtual_museum.dashboard"
+            }
+        },
+        {
+            "title": "Visit Request",
+            "name": "external_sidebar.visit_request",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external_user.virtual_museum.visit_request"
+            }
+        },
+        {
+            "title": "Contact Us",
+            "name": "external_sidebar.contact_us",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external_user.virtual_museum.contact_us"
+            }
+        },
+        {
+            "title": "Virtual Krishibid",
+            "name": "external_sidebar.virtual_krishibid",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external_user.virtual_museum.virtual_krishibid"
+            }
+        }
+    ],
+    "research_farmer": [
+        {
+            "title": "My Profile",
+            "name": "nav.user.profileTitle",
+            "is_active": false,
+            "link": {
+                "name": "external_user.research_farmer.profile"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Field Certification",
+            "name": "external_sidebar.field_certification",
+            "is_heading": false,
+            "is_active": false,
+            "link": "",
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1,
+            "children": [
+                {
+                    "title": "Field Application List",
+                    "name": "external_sidebar.field_application_list",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.seed_certification.field_application_list"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Lot Offer",
+                    "name": "external_sidebar.lot_offer",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.seed_certification.lot_offer"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                }
+            ]
+        },
+        {
+            "title": "Request for Testing & Tag Issue",
+            "name": "external_sidebar.request_for_testing_and_tag_issue",
+            "is_heading": false,
+            "is_active": false,
+            "link": "",
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1,
+            "children": [
+                {
+                    "title": "Request for Testing & Tag Issue Without Field Certification",
+                    "name": "globalTrans.requesting_for_seed_testing_without_field_certification",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.request-testing-tag.request-testing-tag-without-field-certification"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Request for Testing & Tag Issue With Field Certification",
+                    "name": "globalTrans.requesting_for_seed_testing_with_field_certification",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.request-testing-tag.request_testing_tag_with_field_certification"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Test Result and Tag Requisition",
+                    "name": "globalTrans.test_result_and_tag_requisition",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.request-testing-tag.test-result-and-tag-requisition"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                }
+            ]
+        },
+        {
+            "title": "Research Management",
+            "name": "external_sidebar.research_management",
+            "is_heading": false,
+            "is_active": false,
+            "link": "",
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1,
+            "children": [
+                {
+                    "title": "Proposal Circular List",
+                    "name": "external_sidebar.proposal_circular_list",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.research_management.proposal_circular_list"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Proposal Submission List",
+                    "name": "external_sidebar.proposal_submission",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.research_management.proposal_submission"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Activity Plan",
+                    "name": "external_research.activity_plan",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.research_management.activity_plan"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Research Report Submission",
+                    "name": "external_research.research_report_submission",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.research_management.research_report_submission"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Fund Request",
+                    "name": "external_research.fund_request",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.research_management.fund_request"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Research Budget Ledger",
+                    "name": "research_manage.research_budget_ledger",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.research_management.research_budget_ledger"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Monitoring Schedule",
+                    "name": "external_research.monitoring_schedule",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.research_management.monitoring_schedule"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "monitoring-report",
+                    "name": "research_manage.monitoring_report",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.research_management.monitoring_report"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                }
+            ]
+        },
+        {
+            "title": "Publication Management",
+            "name": "external_sidebar.publication_management",
+            "is_heading": false,
+            "is_active": false,
+            "link": "",
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1,
+            "children": [
+                {
+                    "title": "Publication Proposal Submission",
+                    "name": "external_sidebar.publication_proposal_submission",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.publication_management.publication_proposal_submission"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Content Submission List",
+                    "name": "external_sidebar.content_submission_list",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.publication_management.content_submission_list"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Publication Subscription Form",
+                    "name": "external_sidebar.publication_subscription",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.publication_management.publication_subscription_form"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                },
+                {
+                    "title": "Publication Subscription List",
+                    "name": "external_sidebar.subscription_list",
+                    "is_active": false,
+                    "link": {
+                        "name": "external_user.research_farmer.publication_management.subscription_list"
+                    },
+                    "class_name": "",
+                    "is_icon_class": true,
+                    "icon": "ri-record-circle-line"
+                }
+            ]
+        }
+    ],
+    "lrcpn": [
+        {
+            "title": "Dashboard",
+            "name": "external_sidebar.dashboard",
+            "is_active": false,
+            "link": {
+                "name": "external_user.lrcpn.dashboard"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "My Profile",
+            "name": "nav.user.profileTitle",
+            "is_active": false,
+            "link": {
+                "name": "external_user.lrcpn.profile"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Application",
+            "name": "external_sidebar.application",
+            "is_active": false,
+            "link": {
+                "name": "external_user.lrcpn.application"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        },
+        {
+            "title": "Foreign Company Enlistment",
+            "name": "external_sidebar.foreignEnlistment",
+            "is_active": false,
+            "link": {
+                "name": "external_user.lrcpn.foreign_enlisthment"
+            },
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-record-circle-line",
+            "is_public": 1
+        }
+    ]
+}

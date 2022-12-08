@@ -1,0 +1,18 @@
+Ministry Dashboard changes
+--> Language button and sidebar lang changes
+--> viewport position
+--> Back button
+--> Logo Link
+
+Irrigation
+Warehouse
+Ginner
+Grower
+Dealer
+Panel customization
+Irrigation
+Warehouse
+Dealer
+Ginner
+Grower
+Grant Panel Has not public profile

@@ -1,0 +1,136 @@
+/*
+Swiper Slider Changes
+#post-slider .slick-arrow { top: 14px; }
+
+ltr
+#post-slider .slick-arrow.left { left: auto; right: 70px; }
+#post-slider .slick-arrow.right { left: auto; right: 35px; }
+
+rtl
+#post-slider .slick-arrow.left { right: auto; left: 35px; }
+#post-slider .slick-arrow.right { right: auto; left: 70px; }
+*/
+// Animate css
+@import "~animate.css/animate.min.css";
+@import '~node-snackbar/src/sass/snackbar.sass';
+@import "~flatpickr/dist/flatpickr.css";
+@import "../css/variable";
+[dir="ltr"] {
+  &[mode="light"] {
+    @import "../css/bootstrap";
+    @import "../css/light/typography";
+    @import "../css/light/style";
+    @import "../css/light/responsive";
+    @import "../css/light/portal.scss";
+  }
+  &[mode="dark"] {
+    @import "../css/bootstrap";
+    @import "../css/dark/typography";
+    @import "../css/dark/style";
+    @import "../css/dark/responsive";
+  }
+}
+
+.iq-global-search>ul>li a, .slick-arrow, .breadcrumb-item>a{
+  color: var(--iq-primary);
+  &:hover{
+    color: var(--iq-primary);
+  }
+}
+// Font awesome icon Css
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+
+.swal2-title {
+  font-size: 20px !important;
+}
+.complain-title {
+  font-weight: bold;
+  border: 1px solid #b9bdc1;
+  box-shadow: 1px 1px 6px -1px grey;
+  background-color: #dee2e6;
+}
+
+[dir=ltr][mode=light] .form-control {
+  border: 1px solid #515252;
+}
+
+// for font changing [customized by syntech]
+  .font-en {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+
+    .slogan_wrapper {
+      margin-top: 0;
+
+      .name {
+        line-height: 2rem;
+      }
+    }
+
+    .main_service_section {
+      .item {
+        .item_left {
+          ul {
+            a {
+              font-size: 0.9rem;
+            }
+          }
+        }
+      }
+
+      .service_dropdown_wrapper {
+        .sub_menu_wrapper {
+          li {
+            a {
+              font-size: 0.9rem;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .font-bn {
+    font-family: 'Kalpurush';
+    font-size: 17px;
+
+    .slogan_wrapper {
+      margin-top: 10px;
+
+      .name {
+        line-height: 1.7rem;
+      }
+    }
+
+    .menu_wrapper {
+      .btn-group {
+        vertical-align: -webkit-baseline-middle;
+
+        .btn {
+          font-size: 1rem;
+        }
+      }
+    }
+
+    .main_service_section {
+      .item {
+        .item_left {
+          ul {
+            a {
+              font-size: 1rem;
+            }
+          }
+        }
+      }
+
+      .service_dropdown_wrapper {
+        .sub_menu_wrapper {
+          li {
+            a {
+              font-size: 1rem;
+            }
+          }
+        }
+      }
+    }
+  }

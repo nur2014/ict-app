@@ -1,0 +1,103 @@
+{
+    "ministry": [
+        {
+            "title": "Dashboard",
+            "name": "ministry.dashboard",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external-user.common_dashboard"
+            }
+        },
+        {
+            "title": "Seed",
+            "name": "Seed",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external-user.seed"
+            }
+        },
+        {
+            "title": "Fertilizer",
+            "name": "Fertilizer",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external-user.fertilizer"
+            }
+        },
+        {
+            "title": "Incentive",
+            "name": "Incentive",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external-user.Incentive"
+            }
+        },
+        {
+            "title": "License",
+            "name": "License",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external-user.License"
+            }
+        },
+        {
+            "title": "Warehouse",
+            "name": "Warehouse",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external-user.Warehouse"
+            }
+        },
+        {
+            "title": "Training",
+            "name": "Training",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external-user.Training"
+            }
+        },
+        {
+            "title": "Research",
+            "name": "Research and Publications",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external-user.Research"
+            }
+        },
+        {
+            "title": "Irrigation",
+            "name": "Irrigation",
+            "is_active": false,
+            "class_name": "",
+            "is_icon_class": true,
+            "icon": "ri-home-4-line",
+            "link": {
+                "name": "external-user.Irrigation"
+            }
+        }
+    ]
+}
